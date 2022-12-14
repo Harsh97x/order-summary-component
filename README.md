@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://github.com/Harsh97x/order-summary-component/blob/main/design/desktop-design.jpg)
 
 ### Links
 
